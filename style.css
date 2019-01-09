@@ -4,3 +4,24 @@ html{
 body{
   padding-top:70px;
 }
+.full_width_header{
+  	background-image:url('img/orange.jpg');
+	background-size:cover;
+  	background-position:center;
+  	padding-bottom:150px;
+}
+
+.jumbotron{
+  background-color:transparent;
+  padding-top:100px;
+}
+
+.jumbotron h1{
+	color:#fff;
+}
+.jumbotron p{
+	color:#fff;
+}
+.jumbotron h4{
+	color:#fff;
+}
