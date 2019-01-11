@@ -25,3 +25,9 @@ body{
 .jumbotron h4{
 	color:#fff;
 }
+.space {
+  padding-top: 100px;
+}
+.more_padding{
+  padding:20px 20px 20px 20px;
+}
